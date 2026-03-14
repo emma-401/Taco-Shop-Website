@@ -77,9 +77,8 @@ little-taco-shop/
 
 # Live Demo 🌐 
 
-👉 https://yourusername.github.io/little-taco-shop
+👉 https://emma-401.github.io/Taco-Shop-Website/
 
-(Replace with your actual GitHub Pages link)
 
 # Learning Objectives 📚
 
